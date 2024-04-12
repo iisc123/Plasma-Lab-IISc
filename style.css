@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0)50%,rgba(0,0,0,0)50%), url(1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.navbar{
+    width: 1200px;
+    height: 200px;
+    margin: auto;
+}
+
+.icon{
+    width: 800px;
+    float: left;
+    height: 90px;
+}
+
+.logo{
+    color: #165e2c;
+    font-size: 30px;
+    font-family: Times New Roman;
+    padding-left: 250px;
+    float: right;
+    padding-top: 50px;
+    margin-top: 5px
+}
+
+.menu{
+    width: 90px;        
+    float: right;
+    height: 80px;
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    position: absolute;
+    list-style: none;
+    margin-left: 100px;
+    margin-top: 290px;
+    font-size: 30px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #101311;
+    font-family: Times New Roman;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color: #dbe4df;
+}
+
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: #214230;
+    position: relative;
+}
+
+.content h1{
+    font-family: 'Times New Roman';
+    font-size: 45px;
+    padding-left: 40px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+}
+
+.content span{
+    color: #214230;
+    font-size: 60px
+}
+
+.credentials {
+    position: absolute;
+    text-align: left;
+    margin-top: 350px;
+    margin-left: 880px;
+    color: #111f17;
+    font-size: 23px;
+    font-family: Times New Roman;
+    padding: 20px;
+}
+.credentials h2 {
+    text-decoration: underline;
+}
+.note-box {
+    position: absolute;
+    margin-top: 300px;
+    border: 2px solid #111314; 
+    background-color: #dff5e9;
+    padding: 10px; 
+    max-width: 300px;
+}
+
+.note {
+    
+    text-align: left;
+    color: #077a39;
+    font-size: 20px;
+}
+
+.note h3 {
+    
+    margin-top: 0;
+    font-size: 25px;
+}
+
+.note h3 {
+    
+    text-decoration: underline;
+}  

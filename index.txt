@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>The Centre for Sustainable Technologies (CST)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="main">
+        
+        <div class="navbar">
+            <div class="icon">
+                <h2 class="logo">The Centre for Sustainable Technologies
+                <br><snap>Indian Institute of Science, Bangalore</snap></h2>
+                <div class="menu">
+                <ul>
+                    <li><a href="https://cctvdesk.com/kvms-pro-download-for-pc-windows-mac/">LIVE</a></li>
+                </ul>
+            </div>
+
+            <div class="note-box">
+                <div class="note">
+                    <h3>Note:</h3>
+                    <p>* A versatile software application designed for managing and monitoring CCTV cameras remotely.</p>
+                    <p>* When clicking on the "LIVE" option, it redirects to the KVMS Pro Lite website where installation steps for the app are provided.</p>
+                    <p>* Credentials for the app are provided.</p>
+                </div>
+            </div>
+            <div class="credentials">
+                <h2>Credentials</h2>
+                <p>1.User_ID: admin/2206012442013115</p>
+                <p>2.Password: password@123</p>
+            </div>
+        </div>
+    </div>
+    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+</body>
+</html>   
